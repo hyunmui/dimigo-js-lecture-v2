@@ -1,0 +1,16 @@
+{
+  "name": "basic-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@hyunmui.github.com:hyunmui/dimigo-js-lecture-v2.git"
+  },
+  "author": "",
+  "license": "ISC"
+}

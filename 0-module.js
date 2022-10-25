@@ -1,4 +1,5 @@
-let calc = require("./modules/simple-calculator");
+// let calc = require("./modules/simple-calculator");
+import calc from "./modules/es-simple-calculator.js";
 
 const a = 10,
   b = 2;
