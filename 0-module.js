@@ -1,8 +1,8 @@
-// let calc = require("./modules/simple-calculator");
-import calc from "./modules/es-simple-calculator.js";
+// TODO: import modules
 
-const a = 10,
-  b = 2;
+const a = 10, b = 2;
 
 console.log(calc.add(a, b));
+console.log(calc.minus(a, b));
 console.log(calc.multiply(a, b));
+console.log(calc.divide(a, b));
