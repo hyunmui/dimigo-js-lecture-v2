@@ -10,5 +10,6 @@
 
 // TODO: import module
 
-console.log(combineWithComma([1,2,3,4]));   // expected '1,2,3,4'
-console.log(combineWithComma(['abd', '123']));  // expected 'abd,123'
+// 홀수, 문자열만 쉼표로 묶어서 반환하라
+console.log(combineWithComma([1,2,3,4,11,14]));   // expected '1,3,11'
+console.log(combineWithComma(['abd', '123', 5, 16, '44']));  // expected 'abd,123,5,44'
